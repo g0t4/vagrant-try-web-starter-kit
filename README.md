@@ -13,7 +13,7 @@ An environment to give the Google Web Starter Kit a spin.
 
 ## Usage
 
-1. `git clone https://github.com/g0t4/vagrant-try-web-starter-kit`
+1. `git clone --recursive https://github.com/g0t4/vagrant-try-web-starter-kit`
 1. open a terminal in the cloned directory
 1. `vagrant up` - boot the ubuntu instance and provision the components for the web starter kit
 1. `vagrant ssh` - ssh in to the ubuntu instance
